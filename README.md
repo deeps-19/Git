@@ -1,6 +1,6 @@
 # Git Basic Command 
- git init
-git add .
+ /n git init
+/n git add .
 git status
 git comit -m 'Index.htm file inserted"
 git log
